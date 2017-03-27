@@ -60,7 +60,7 @@ ul.features-list li:before {
 .item-name {
     background: #fff;
     padding: 5px 30px;
-    color: #366BB0;
+    color: #194359;
     display: inline-block;
     font-weight: 700;
     margin-bottom: 40px;
@@ -86,7 +86,7 @@ ul.features-list li:before {
 }
 .owl-theme .owl-controls .owl-nav [class*=owl-]:hover {
     background: #fff;
-    color: #366BB0;
+    color: #194359;
 }
 @media screen and (max-width: 400px) {
     /* For mobile phones: */
